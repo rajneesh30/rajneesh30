@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajneesh30
 - 👀 I’m interested in building robust, scalable and secure systems.
-- 🌱 I’m currently learning : Azure PaaS offerings.
+- 🌱 I’m currently learning : Generative AI.
 - 💞️ I’m looking to collaborate on anything that involve tech stuffs, brain storming, creativity.
 - 📫 How to reach me : rajneesh.rt@gmail.com
 
